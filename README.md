@@ -39,7 +39,7 @@ The objective of this project is to analyze global sales performance across diff
 -Europe emerged as a key growth market for both Technology and Office Supplies, demonstrating strong year-over-year sales growth throughout the analysis period.\
 -Furniture performance was heavily dependent on the Asia Pacific market, while several regions such as Europe, LATAM, and USCA experienced periods of declining or inconsistent sales growth.\
 -Office Supplies underperformed overall; however, Europe generated $1.16M in sales and maintained steady annual growth, indicating a stable customer base and expansion potential.
-- Revenue concentration in Technology and Asia Pacific suggests that these areas are the primary drivers of business growth and represent the strongest opportunities for future investment.
-- Significant sales gaps between high-performing markets (Asia Pacific and Europe) and low-performing markets (Africa) indicate potential opportunities for market-specific growth strategies.
+-Revenue concentration in Technology and Asia Pacific suggests that these areas are the primary drivers of business growth and represent the strongest opportunities for future investment.
+-Significant sales gaps between high-performing markets (Asia Pacific and Europe) and low-performing markets (Africa) indicate potential opportunities for market-specific growth strategies.
 - 
 
