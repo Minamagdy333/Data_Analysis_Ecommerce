@@ -42,12 +42,12 @@ The objective of this project is to analyze global sales performance across diff
 -Revenue concentration in Technology and Asia Pacific suggests that these areas are the primary drivers of business growth and represent the strongest opportunities for future investment.
 -Significant sales gaps between high-performing markets (Asia Pacific and Europe) and low-performing markets (Africa) indicate potential opportunities for market-specific growth strategies.
 # Tools Used
--Power BI\
+-Power BI
 
--DAX\
+-DAX
 
--Power Query\
+-Power Query
 
--ETL\
+-ETL
 
 -DATA Clean
