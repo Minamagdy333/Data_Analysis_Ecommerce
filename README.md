@@ -43,7 +43,11 @@ The objective of this project is to analyze global sales performance across diff
 -Significant sales gaps between high-performing markets (Asia Pacific and Europe) and low-performing markets (Africa) indicate potential opportunities for market-specific growth strategies.
 # Tools Used
 -Power BI\
--DAX\ 
--Power Query\ 
+
+-DAX\
+
+-Power Query\
+
 -ETL\
+
 -DATA Clean
