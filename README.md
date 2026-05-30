@@ -1,5 +1,5 @@
 # Project Description
-
+This Power BI project analyzes global sales data from 2012 to 2015 to evaluate category performance, market trends, and revenue growth. The dashboard provides insights into top-performing product categories, regional sales distribution, and year-over-year growth patterns
 # Project Objective
 The objective of this project is to analyze global sales performance across different product categories and markets between 2012 and 2015. The dashboard aims to identify top-performing categories, evaluate market trends, monitor sales growth, and uncover opportunities for business expansion through data-driven insights.\
 # Dataset
@@ -26,11 +26,19 @@ The objective of this project is to analyze global sales performance across diff
 * Market Contribution %
 * Sales Trend (2012–2015)
 * Sales by Category and Market
+# Dashboard Preview
+The dashboard consists of three analytical pages:
+- Home Page
+- Overview Analysis
+- Market Analysis
 # Dashboard
+# Home Page
 ![uploading_Screenshot 2026-05-30 170037.png](https://github.com/Minamagdy333/Data_Analysis_Ecommerce/blob/main/Screenshot%202026-05-30%20170037.png)
+# Overview Analysis
 ![uploading_Screenshot 2026-05-30 170218.png](https://github.com/Minamagdy333/Data_Analysis_Ecommerce/blob/main/Screenshot%202026-05-30%20170218.png)
+# Market Analysis
 ![uploading_Screenshot 2026-05-30 170237.png](https://github.com/Minamagdy333/Data_Analysis_Ecommerce/blob/main/Screenshot%202026-05-30%20170237.png)
-# Key Insights
+# Insights
 - Total sales reached $12.64M, demonstrating strong business performance across all markets and product categories.\
 -Technology was the highest-performing category, generating $4.74M in sales and contributing approximately 37.5% of total revenue.\
 -Office Supplies generated the lowest sales ($3.79M), despite showing strong growth in several markets, particularly Europe.\
@@ -43,13 +51,19 @@ The objective of this project is to analyze global sales performance across diff
 -Office Supplies underperformed overall; however, Europe generated $1.16M in sales and maintained steady annual growth, indicating a stable customer base and expansion potential.
 -Revenue concentration in Technology and Asia Pacific suggests that these areas are the primary drivers of business growth and represent the strongest opportunities for future investment.
 -Significant sales gaps between high-performing markets (Asia Pacific and Europe) and low-performing markets (Africa) indicate potential opportunities for market-specific growth strategies.
+# Conclusion
+* Technology was the strongest-performing category, contributing over one-third of total sales.
+* Asia Pacific emerged as the leading market and the primary driver of business growth.
+* Europe demonstrated strong and consistent growth, particularly in Technology and Office Supplies.
+* Africa remained the weakest-performing market across all categories, indicating opportunities for targeted growth strategies.
+* Sales increased steadily from 2012 to 2015, reflecting positive business expansion and market demand.
+* Future growth opportunities are concentrated in Technology products and high-performing markets such as Asia Pacific and Europe.
+
 # Tools Used
--Power BI
-
--DAX
-
--Power Query
-
--ETL
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Modeling
 
 -DATA Clean
