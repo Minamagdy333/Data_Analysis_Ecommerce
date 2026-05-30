@@ -65,5 +65,3 @@ The dashboard consists of three analytical pages:
 - DAX
 - Data Cleaning
 - Data Modeling
-
--DATA Clean
