@@ -41,5 +41,5 @@ The objective of this project is to analyze global sales performance across diff
 -Office Supplies underperformed overall; however, Europe generated $1.16M in sales and maintained steady annual growth, indicating a stable customer base and expansion potential.
 - Revenue concentration in Technology and Asia Pacific suggests that these areas are the primary drivers of business growth and represent the strongest opportunities for future investment.
 - Significant sales gaps between high-performing markets (Asia Pacific and Europe) and low-performing markets (Africa) indicate potential opportunities for market-specific growth strategies.\
-![uploading_Screenshot 2026-05-30 170037.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153103.png)
+- 
 
