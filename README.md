@@ -3,14 +3,14 @@ The objective of this project is to analyze global sales performance across diff
 # Dataset
 -<a href="https://github.com/Minamagdy333/Data_Analysis_Ecommerce/blob/main/global_superstore.xlsx">Dataset</a>
 # Business Questions
-1. What is the total sales performance across all markets and product categories?\
-2. Which product category generates the highest and lowest sales?\
-3. Which markets contribute the most and least revenue to the business?\
-4. How have sales trends evolved from 2012 to 2015 across different categories and markets?\
-5. Which market drives the strongest performance for each product category?\
-6. Which markets show consistent growth, and which exhibit declining or volatile sales patterns?\
-7. How dependent is each product category on specific markets?\
-8. What business opportunities can be identified based on category and market performance?\
+1. What is the total sales performance across all markets and product categories?
+2. Which product category generates the highest and lowest sales?
+3. Which markets contribute the most and least revenue to the business?
+4. How have sales trends evolved from 2012 to 2015 across different categories and markets?
+5. Which market drives the strongest performance for each product category?
+6. Which markets show consistent growth, and which exhibit declining or volatile sales patterns?
+7. How dependent is each product category on specific markets?
+8. What business opportunities can be identified based on category and market performance?
 # KPIs
 * Total Sales
 * Sales by Category
